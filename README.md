@@ -22,6 +22,7 @@
 | Orca | ❌ | ❌ |
 | Albino Antlion | ❌ | ❌ |
 | Tizona | ❌ | ❌ |
+| Ancient Tizona (old sprite) | ❌ | ❌ |
 | Tonbogiri | ❌ | ❌ |
 | Suspicious Looking Skull | ❌ | ❌ |
 | Egg Cannon | ❌ | ❌ |
@@ -40,4 +41,13 @@
 | Spectral Helmet | ❌ | ❌ |
 | Spectral Armor | ❌ | ❌ |
 | Spectral Greaves | ❌ | ❌ |
+| Ancient Dragon Helmet (old sprite) | ❌ | ❌ |
+| Ancient Dragon Breastplate (old sprite) | ❌ | ❌ |
+| Ancient Dragon Greaves (old sprite) | ❌ | ❌ |
+| Ancient Titan Helmet (old sprite) | ❌ | ❌ |
+| Ancient Titan Mail (old sprite) | ❌ | ❌ |
+| Ancient Titan Leggings (old sprite) | ❌ | ❌ |
+| Ancient Spectral Helmet (old sprite) | ❌ | ❌ |
+| Ancient Spectral Armor (old sprite) | ❌ | ❌ |
+| Ancient Spectral Greaves (old sprite) | ❌ | ❌ |
 | Soul of Blight | ❌ | ❌ |
