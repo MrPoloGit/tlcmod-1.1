@@ -24,6 +24,7 @@
 | Tizona | ❌ | ❌ |
 | Ancient Tizona (old sprite) | ❌ | ❌ |
 | Tonbogiri | ❌ | ❌ |
+| Ancient Tonbogiri (old sprite) | ❌ | ❌ |
 | Suspicious Looking Skull | ❌ | ❌ |
 | Egg Cannon | ❌ | ❌ |
 | Explosive Bunny | ❌ | ❌ |
