@@ -1,0 +1,8 @@
+*.dll
+.DS_Store
+
+# assets
+Gore/*.png
+Item/*.png
+NPC/*.png
+Projectile/*.png
