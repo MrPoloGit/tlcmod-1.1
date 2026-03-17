@@ -17,8 +17,5 @@ public void UseItemEffect(Player player, Rectangle rectangle)
 
 public void DamageNPC(Player player, NPC npc, ref int damage, ref float knockback)
 {
-    if (Main.rand.Next(5) == 0)
-    {
-        npc.AddBuff(30, 420); // Bleeding
-    }
+    npc.AddBuff(30, 420); // Bleeding
 }
