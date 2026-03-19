@@ -2,7 +2,9 @@
 .DS_Store
 
 # assets
+Buff/*.png
 Gore/*.png
 Item/*.png
 NPC/*.png
 Projectile/*.png
+Tile/*.png

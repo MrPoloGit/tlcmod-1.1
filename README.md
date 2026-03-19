@@ -28,7 +28,32 @@
 - Global
     - World, Heart Shrine, Jungle Sanctum, Second Pyramid Room
 - Gore
-    - Gore for all the other enemies?
+    - Albino Antlion Tooth, look at 97
+    - Albino Antlion Head, look at 98
+    - Arch Demon Head, look at 93
+    - Arch Demon Wings, look at 94
+    - Dragon Hornet Head, look at 70
+    - Dragon Skull Body, look at 71
+    - Dragon Snatcher, 72
+    - Ocram Phase 1, No Gore
+    - Ocram Phase 2, Missing gore
+    - Easter Egg Shell
+    - Diseaster Bunny Gore 1
+    - Diseaster Bunny Gore 2
+    - Diseaster Bunny Gore 3
+    - Diseaster Bunny Gore 4
+    - Lepus Gore 1
+    - Lepus Gore 2
+    - Lepus Gore 3
+    - Lepus Gore 4
+    - Lepus Gore 5
+    - Lepus Gore 6
+    - Lepus Gore 7
+    - Turkor the Ungrateful Beak
+    - Turkor the Ungrateful Eye
+    - Turkor the Ungrateful Feather
+    - Turkor the Ungrateful Meat
+    - Turkor the Ungrateful Neck
 - Item
     - Sharanga
     - Spectral Arrow
