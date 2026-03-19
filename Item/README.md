@@ -6,7 +6,7 @@
 | Spectral Arrow                   | ✅     | ❌   |
 | Ancient Tizona                   | ✅     | ❌   |
 | Tizona                           | ✅     | ❌   |
-| Ancient Tonbogiri                | ❌     | ❌   |
+| Ancient Tonbogiri                | ✅     | ❌   |
 | Tonbogiri                        | ✅     | ❌   |
 | Vulcan Bolt                      | ✅     | ❌   |
 | Vulcan Repeater                  | ✅     | ❌   |
