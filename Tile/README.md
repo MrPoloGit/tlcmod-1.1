@@ -9,10 +9,10 @@ These are only for 1.2
 | Arch Demon Banner         | ✅     | ❌   |
 | Arch Wyvern Banner        | ✅     | ❌   |
 | Dragon Snatcher Banner    | ✅     | ❌   |
-| Jellyfish Banner?         | ❌     | ❌   |
+| Jellyfish Banner          | ✅     | ❌   |
 | Shadow Hammer Banner      | ✅     | ❌   |
 | Shadow Mummy Banner       | ✅     | ❌   |
-| Slime Banner (Blue?)      | ❌     | ❌   |
+| Slime Banner              | ✅     | ❌   |
 | Spectral Elemental Banner | ✅     | ❌   |
 | Spectral Gastropod Banner | ✅     | ❌   |
 | Vampire Miner Banner      | ✅     | ❌   |

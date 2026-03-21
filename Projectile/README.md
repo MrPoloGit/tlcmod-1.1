@@ -8,6 +8,6 @@
 | Ancient Tonbogiri                  | ✅     | ❌   |
 | Tonbogiri                          | ✅     | ❌   |
 | Vulcan Bolt                        | ✅     | ❌   |
-| Heart Arrow                        | ❌     | ❌   |
+| Heart Arrow                        | ✅     | ❌   |
 | Roman Candle (IDK where to get)    | ❌     | ❌   |
-| Green Laser (Zappinator)           | ❌     | ❌   |
+| Green Laser (Zappinator)           | ✅     | ❌   |

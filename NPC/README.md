@@ -20,7 +20,7 @@
 | Spectral Elemental          | ✅     | ❌   |
 | Spectral Gastropod          | ✅     | ❌   |
 | Spectral Mummy              | ✅     | ❌   |
-| Vampire Miner               | ❌     | ❌   |
+| Vampire Miner               | ✅     | ❌   |
 | Ocram Boss1                 | ✅     | ❌   |
 | Ocram Boss2                 | ✅     | ❌   |
 | Ocram Boss3                 | ✅     | ❌   |
@@ -29,7 +29,7 @@
 | Ocram Boss (Phase 2)3       | ✅     | ❌   |
 | Orca                        | ✅     | ❌   |
 | Bat Pet                     | ✅     | ❌   |
-| Guinea Pig                  | ❌     | ❌   |
+| Guinea Pig                  | ✅     | ❌   |
 | Slime Pet                   | ✅     | ❌   |
 | Tiphia                      | ✅     | ❌   |
 | Werewolf Pet                | ✅     | ❌   |
@@ -41,7 +41,7 @@
 | Turkor Head                 | ✅     | ❌   |
 | Turkor Neck Piece           | ✅     | ❌   |
 | Elfa                        | ✅     | ❌   |
-| Cupid                       | ❌     | ❌   |
+| Cupid                       | ✅     | ❌   |
 | Old Lady                    | ✅     | ❌   |
 | Pet Turkey                  | ✅     | ❌   |
 | Worm Pet                    | ✅     | ❌   |

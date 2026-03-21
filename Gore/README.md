@@ -2,15 +2,15 @@
 
 | Gore                               | Sprite |
 |------------------------------------|--------|
-| Albino Antlion Tooth (97)          | ❌     |
-| Albino Antlion Head (98)           | ❌     |
-| Arch Demon Head (93)               | ❌     |
-| Arch Demon Wings (94)              | ❌     |
-| Dragon Hornet Head (70)            | ❌     |
-| Dragon Skull Body (71)             | ❌     |
-| Dragon Snatcher (72)               | ❌     |
-| Ocram Phase 1 (No Gore)            | ❌     |
-| Ocram Phase 2 (Missing Gore)       | ❌     |
+| Albino Antlion Tooth               | ✅     |
+| Albino Antlion Head                | ✅     |
+| Arch Demon Head                    | ✅     |
+| Arch Demon Wings                   | ✅     |
+| Dragon Hornet Head                 | ✅     |
+| Dragon Skull Body                  | ✅     |
+| Dragon Snatcher 1                  | ✅     |
+| Dragon Snatcher 2                  | ✅     |
+| Ocram Phase                        | ✅     |
 | Easter Egg Shell                   | ✅     |
 | Diseaster Bunny Gore 1             | ✅     |
 | Diseaster Bunny Gore 2             | ✅     |

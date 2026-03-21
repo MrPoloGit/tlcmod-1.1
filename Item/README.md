@@ -75,12 +75,12 @@
 | George's Tuxedo Pants            | ✅     | ❌   |
 | George's Tuxedo Pants Legs       | ✅     | ❌   |
 | Hero's Hat                       | ✅     | ❌   |
-| Hero's Hat Head                  | ❌     | ❌   |
+| Hero's Hat Head                  | ✅     | ❌   |
 | Hero's Shirt                     | ✅     | ❌   |
-| Hero's Shirt Arms                | ❌     | ❌   |
-| Hero's Shirt Body                | ❌     | ❌   |
+| Hero's Shirt Arms                | ✅     | ❌   |
+| Hero's Shirt Body                | ✅     | ❌   |
 | Hero's Pants                     | ✅     | ❌   |
-| Hero's Pants Legs                | ❌     | ❌   |
+| Hero's Pants Legs                | ✅     | ❌   |
 | Horned God Mask                  | ❌     | ❌   |
 | Horned God Mask Head             | ❌     | ❌   |
 | Horned God Robe                  | ❌     | ❌   |
@@ -90,26 +90,26 @@
 | Horned God Boots Legs            | ❌     | ❌   |
 | Ocram Mask                       | ❌     | ❌   |
 | Plumber's Hat                    | ✅     | ❌   |
-| Plumber's Hat Head               | ❌     | ❌   |
+| Plumber's Hat Head               | ✅     | ❌   |
 | Plumber's Shirt                  | ✅     | ❌   |
-| Plumber's Shirt Arms             | ❌     | ❌   |
-| Plumber's Shirt Body             | ❌     | ❌   |
+| Plumber's Shirt Arms             | ✅     | ❌   |
+| Plumber's Shirt Body             | ✅     | ❌   |
 | Plumber's Pants                  | ✅     | ❌   |
-| Plumber's Pants Legs             | ❌     | ❌   |
+| Plumber's Pants Legs             | ✅     | ❌   |
 | Vial of Blood                    | ✅     | ❌   |
-| Cabbage                          | ❌     | ❌   |
+| Cabbage                          | ✅     | ❌   |
 | Petri Dish                       | ✅     | ❌   |
 | Beeswax                          | ✅     | ❌   |
 | Wolf Fang                        | ✅     | ❌   |
 | Brain                            | ✅     | ❌   |
 | Soul of Blight                   | ✅     | ❌   |
 | Suspicious Looking Skull         | ✅     | ❌   |
-| Egg Cannon                       | ❌     | ❌   |
-| Heart Arrow                      | ❌     | ❌   |
+| Egg Cannon                       | ✅     | ❌   |
+| Heart Arrow                      | ✅     | ❌   |
 | Holy Hand Grenade                | ✅     | ❌   |
 | Roman Candle                     | ✅     | ❌   |
-| Zapinator                        | ❌     | ❌   |
-| Valentine Ring                   | ❌     | ❌   |
+| Zapinator                        | ✅     | ❌   |
+| Valentine Ring                   | ✅     | ❌   |
 | Boots of Ostara                  | ❌     | ❌   |
 | Boots of Ostara Legs             | ❌     | ❌   |
 | Festive Top Hat                  | ✅     | ❌   |
@@ -132,14 +132,14 @@
 | Holiday Bauble                   | ✅     | ❌   |
 | Old Walking Stick                | ✅     | ❌   |
 | Turkey Feather                   | ✅     | ❌   |
-| Suspicious Apple                 | ❌     | ❌   |
+| Suspicious Apple                 | ✅     | ❌   |
 | Cursed Stuffing                  | ✅     | ❌   |
 | Horn o' Plenty                   | ✅     | ❌   |
 | Purple Thread                    | ❌     | ❌   |
-| Strange Looking Tombstone        | ❌     | ❌   |
+| Strange Looking Tombstone        | ✅     | ❌   |
 | Wiesnbrau                        | ✅     | ❌   |
-| Rainbow Piece                    | ❌     | ❌   |
-| Pot o' Gold                      | ❌     | ❌   |
+| Rainbow Piece                    | ✅     | ❌   |
+| Pot o' Gold                      | ✅     | ❌   |
 | Amazon Package                   | ❌     | ❌   |
 | Beer Boot                        | ✅     | ❌   |
 | Shiny Black Slab                 | ✅     | ❌   |
@@ -147,14 +147,14 @@
 | Cane                             | ✅     | ❌   |
 | Ocram Trophy                     | ✅     | ❌   |
 | Albino Antlion Banner            | ✅     | ❌   |
-| Arch Demon Banner                | ❌     | ❌   |
-| Arch Wyvern Banner               | ❌     | ❌   |
+| Arch Demon Banner                | ✅     | ❌   |
+| Arch Wyvern Banner               | ✅     | ❌   |
 | Dragon Snatcher Banner           | ✅     | ❌   |
 | Jellyfish Banner                 | ❌     | ❌   |
 | Orca Banner                      | ✅     | ❌   |
 | Shadow Hammer Banner             | ✅     | ❌   |
 | Shadow Mummy Banner              | ✅     | ❌   |
-| Slime Banner (Blue?)             | ❌     | ❌   |
+| Slime Banner                     | ✅     | ❌   |
 | Spectral Elemental Banner        | ✅     | ❌   |
 | Spectral Gastropod Banner        | ✅     | ❌   |
 | Vampire Miner Banner             | ✅     | ❌   |
