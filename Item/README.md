@@ -10,36 +10,48 @@
 | Tonbogiri                        | ✅     | ❌   |
 | Vulcan Bolt                      | ✅     | ❌   |
 | Vulcan Repeater                  | ✅     | ❌   |
-| Ancient Dragon Arms              | ❌     | ❌   |
-| Ancient Dragon Body              | ❌     | ❌   |
-| Ancient Dragon Breastplate       | ❌     | ❌   |
-| Ancient Dragon Greaves           | ❌     | ❌   |
-| Ancient Dragon Mask              | ❌     | ❌   |
-| Dragon Arms                      | ❌     | ❌   |
-| Dragon Body                      | ❌     | ❌   |
-| Dragon Breastplate               | ✅     | ❌   |
-| Dragon Greaves                   | ✅     | ❌   |
+| Ancient Dragon Mask              | ✅     | ❌   |
+| Ancient Dragon Mask Head         | ❌     | ❌   |
+| Ancient Dragon Breastplate       | ✅     | ❌   |
+| Ancient Dragon Breastplate Arms  | ❌     | ❌   |
+| Ancient Dragon Breastplate Body  | ❌     | ❌   |
+| Ancient Dragon Greaves           | ✅     | ❌   |
+| Ancient Dragon Greaves Legs      | ✅     | ❌   |
 | Dragon Mask                      | ✅     | ❌   |
+| Dragon Mask Head                 | ✅     | ❌   |
+| Dragon Breastplate               | ✅     | ❌   |
+| Dragon Breastplate Arms          | ✅     | ❌   |
+| Dragon Breastplate Body          | ✅     | ❌   |
+| Dragon Greaves                   | ✅     | ❌   |
+| Dragon Greaves Legs              | ✅     | ❌   |
+| Ancient Spectral Headgear        | ✅     | ❌   |
+| Ancient Spectral Headgear Head   | ❌     | ❌   |
 | Ancient Spectral Armor           | ❌     | ❌   |
-| Ancient Spectral Arms            | ❌     | ❌   |
-| Ancient Spectral Body            | ❌     | ❌   |
-| Ancient Spectral Headgear        | ❌     | ❌   |
-| Ancient Spectral Subligar        | ❌     | ❌   |
-| Spectral Armor                   | ✅     | ❌   |
-| Spectral Arms                    | ❌     | ❌   |
-| Spectral Body                    | ❌     | ❌   |
+| Ancient Spectral Armor Arms      | ❌     | ❌   |
+| Ancient Spectral Armor Body      | ❌     | ❌   |
+| Ancient Spectral Subligar        | ✅     | ❌   |
+| Ancient Spectral Subligar Legs   | ✅     | ❌   |
 | Spectral Headgear                | ✅     | ❌   |
+| Spectral Headgear Head           | ✅     | ❌   |
+| Spectral Armor                   | ✅     | ❌   |
+| Spectral Armor Arms              | ✅     | ❌   |
+| Spectral Armor Body              | ✅     | ❌   |
 | Spectral Subligar                | ✅     | ❌   |
-| Ancient Titan Arms               | ❌     | ❌   |
-| Ancient Titan Body               | ❌     | ❌   |
-| Ancient Titan Helmet             | ❌     | ❌   |
-| Ancient Titan Leggings           | ❌     | ❌   |
-| Ancient Titan Mail               | ❌     | ❌   |
-| Titan Arms                       | ❌     | ❌   |
-| Titan Body                       | ❌     | ❌   |
+| Spectral Subligar Legs           | ✅     | ❌   |
+| Ancient Titan Helmet             | ✅     | ❌   |
+| Ancient Titan Helmet Head        | ✅     | ❌   |
+| Ancient Titan Mail               | ✅     | ❌   |
+| Ancient Titan Mail Arms          | ❌     | ❌   |
+| Ancient Titan Mail Body          | ❌     | ❌   |
+| Ancient Titan Leggings           | ✅     | ❌   |
+| Ancient Titan Leggings Legs      | ❌     | ❌   |
 | Titan Helmet                     | ✅     | ❌   |
-| Titan Leggings                   | ✅     | ❌   |
+| Titan Helmet Head                | ✅     | ❌   |
 | Titan Mail                       | ✅     | ❌   |
+| Titan Mail Arms                  | ✅     | ❌   |
+| Titan Mail Body                  | ✅     | ❌   |
+| Titan Leggings                   | ✅     | ❌   |
+| Titan Leggings Legs              | ✅     | ❌   |
 | Music Box Boss4                  | ✅     | ❌   |
 | Music Box Desert                 | ✅     | ❌   |
 | Music Box Ocean                  | ✅     | ❌   |
@@ -48,32 +60,42 @@
 | Music Box Tutorial               | ✅     | ❌   |
 | Sparkly Wings                    | ✅     | ❌   |
 | Sparkly Wings Flying             | ✅     | ❌   |
-| Fabulous Arms                    | ❌     | ❌   |
-| Fabulous Body                    | ❌     | ❌   |
 | Fabulous Ribbon                  | ✅     | ❌   |
+| Fabulous Ribbon Head             | ✅     | ❌   |
 | Fabulous Dress                   | ✅     | ❌   |
+| Fabulous Dress Arms              | ✅     | ❌   |
+| Fabulous Dress Body              | ✅     | ❌   |
 | Fabulous Slippers                | ✅     | ❌   |
-| George's Arms                    | ❌     | ❌   |
-| George's Body                    | ❌     | ❌   |
+| Fabulous Slippers Legs           | ✅     | ❌   |
 | George's Hat                     | ✅     | ❌   |
+| George's Hat Head                | ✅     | ❌   |
 | George's Tuxedo Shirt            | ✅     | ❌   |
+| George's Tuxedo Shirt Arms       | ✅     | ❌   |
+| George's Tuxedo Shirt Body       | ✅     | ❌   |
 | George's Tuxedo Pants            | ✅     | ❌   |
-| Hero's Arms                      | ❌     | ❌   |
-| Hero's Body                      | ❌     | ❌   |
-| Hero's Hat                       | ❌     | ❌   |
-| Hero's Shirt                     | ❌     | ❌   |
-| Hero's Pants                     | ❌     | ❌   |
-| Horned God Arms                  | ❌     | ❌   |
-| Horned God Body                  | ❌     | ❌   |
+| George's Tuxedo Pants Legs       | ✅     | ❌   |
+| Hero's Hat                       | ✅     | ❌   |
+| Hero's Hat Head                  | ❌     | ❌   |
+| Hero's Shirt                     | ✅     | ❌   |
+| Hero's Shirt Arms                | ❌     | ❌   |
+| Hero's Shirt Body                | ❌     | ❌   |
+| Hero's Pants                     | ✅     | ❌   |
+| Hero's Pants Legs                | ❌     | ❌   |
 | Horned God Mask                  | ❌     | ❌   |
+| Horned God Mask Head             | ❌     | ❌   |
 | Horned God Robe                  | ❌     | ❌   |
+| Horned God Robe Arms             | ❌     | ❌   |
+| Horned God Robe Body             | ❌     | ❌   |
 | Horned God Boots                 | ❌     | ❌   |
+| Horned God Boots Legs            | ❌     | ❌   |
 | Ocram Mask                       | ❌     | ❌   |
-| Plumber's Arms                   | ❌     | ❌   |
-| Plumber's Body                   | ❌     | ❌   |
-| Plumber's Hat                    | ❌     | ❌   |
-| Plumber's Shirt                  | ❌     | ❌   |
-| Plumber's Pants                  | ❌     | ❌   |
+| Plumber's Hat                    | ✅     | ❌   |
+| Plumber's Hat Head               | ❌     | ❌   |
+| Plumber's Shirt                  | ✅     | ❌   |
+| Plumber's Shirt Arms             | ❌     | ❌   |
+| Plumber's Shirt Body             | ❌     | ❌   |
+| Plumber's Pants                  | ✅     | ❌   |
+| Plumber's Pants Legs             | ❌     | ❌   |
 | Vial of Blood                    | ✅     | ❌   |
 | Cabbage                          | ❌     | ❌   |
 | Petri Dish                       | ✅     | ❌   |
@@ -89,15 +111,23 @@
 | Zapinator                        | ❌     | ❌   |
 | Valentine Ring                   | ❌     | ❌   |
 | Boots of Ostara                  | ❌     | ❌   |
+| Boots of Ostara Legs             | ❌     | ❌   |
 | Festive Top Hat                  | ✅     | ❌   |
-| Oktoberfest Arms                 | ❌     | ❌   |
-| Oktoberfest Body                 | ❌     | ❌   |
+| Festive Top Hat Head             | ✅     | ❌   |
 | Alphine Hat                      | ✅     | ❌   |
+| Alphine Hat Head                 | ✅     | ❌   |
 | Lederweste                       | ✅     | ❌   |
+| Lederweste Arms                  | ✅     | ❌   |
+| Lederweste Body                  | ✅     | ❌   |
 | Lederhosen                       | ✅     | ❌   |
+| Lederhosen Legs                  | ✅     | ❌   |
 | Oktober Locks                    | ✅     | ❌   |
+| Oktober Locks Head               | ❌     | ❌   |
 | Dirndl Blouse                    | ✅     | ❌   |
+| Dirndl Blouse Arms               | ✅     | ❌   |
+| Dirndl Blouse Body               | ✅     | ❌   |
 | Dirndl Skirt                     | ✅     | ❌   |
+| Dirndl Skirt Legs                | ✅     | ❌   |
 | Broken Heart Crytal              | ✅     | ❌   |
 | Holiday Bauble                   | ✅     | ❌   |
 | Old Walking Stick                | ✅     | ❌   |
