@@ -2,7 +2,7 @@ public bool SpawnNPC(int x, int y, int playerID)
 {
     Player player = Main.player[playerID];
 
-    if (Main.bloodMoon && player.zoneEvil) // corruption biome
+    if (player.zoneEvil) // corruption biome
     {
         if (y < Main.rockLayer - 10 &&
             y > (int)(Main.topWorld + 100f) &&

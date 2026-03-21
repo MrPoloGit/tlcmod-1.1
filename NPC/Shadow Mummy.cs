@@ -3,7 +3,7 @@ public bool SpawnNPC(int x, int y, int playerID)
     Player player = Main.player[playerID];
 
     return Main.hardMode &&
-        //    player.zoneDesert &&     // now sure how
+        //    player.zoneDesert &&     // not sure how
            player.zoneEvil &&       // corruption
            !player.zoneMeteor &&
            Main.rand.Next(7) == 0;

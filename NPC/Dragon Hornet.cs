@@ -6,6 +6,8 @@ public bool SpawnNPC(int x, int y, int playerID)
     }
     else return false;
 }
+
+// Temp ai from corrupted hornet from Avalon, will need to be tweaked
 public void AI()
 {
 	npc.AI(true);

@@ -1,8 +1,10 @@
 # Tile
 
+These are only for 1.2
+
 | Tile                      | Sprite | Code |
 |---------------------------|--------|------|
-| Ocram Trophy              | ❌     | ❌   |
+| Ocram Trophy              | ✅     | ❌   |
 | Albino Antlion Banner     | ✅     | ❌   |
 | Arch Demon Banner         | ✅     | ❌   |
 | Arch Wyvern Banner        | ✅     | ❌   |
