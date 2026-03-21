@@ -166,7 +166,7 @@
 | Roman Candle                     | ✅     | ❌   |
 | Zapinator                        | ✅     | ❌   |
 | Valentine Ring                   | ✅     | ❌   |
-| Boots of Ostara                  | ❌     | ❌   |
+| Boots of Ostara                  | ✅     | ❌   |
 | Boots of Ostara Legs             | ❌     | ❌   |
 | Festive Top Hat                  | ✅     | ❌   |
 | Festive Top Hat Head             | ✅     | ❌   |
