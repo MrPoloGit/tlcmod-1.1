@@ -18,3 +18,4 @@
 | Amazon Drone         | ❌     | ❌   |
 | Android Guy          | ✅     | ❌   |
 | Pet Golden Turtle    | ✅     | ❌   |
+| Stunned Debuff       | ✅     | ❌   |
