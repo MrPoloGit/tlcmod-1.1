@@ -137,13 +137,13 @@
 | Hero's Shirt Body                | ✅     | ❌   |
 | Hero's Pants                     | ✅     | ❌   |
 | Hero's Pants Legs                | ✅     | ❌   |
-| Horned God Mask                  | ❌     | ❌   |
-| Horned God Mask Head             | ❌     | ❌   |
-| Horned God Robe                  | ❌     | ❌   |
+| Horned God Mask                  | ✅     | ❌   |
+| Horned God Mask Head             | ✅     | ❌   |
+| Horned God Robe                  | ✅     | ❌   |
 | Horned God Robe Arms             | ❌     | ❌   |
 | Horned God Robe Body             | ❌     | ❌   |
-| Horned God Boots                 | ❌     | ❌   |
-| Horned God Boots Legs            | ❌     | ❌   |
+| Horned God Boots                 | ✅     | ❌   |
+| Horned God Boots Legs            | ✅     | ❌   |
 | Ocram Mask                       | ❌     | ❌   |
 | Plumber's Hat                    | ✅     | ❌   |
 | Plumber's Hat Head               | ✅     | ❌   |
@@ -167,7 +167,7 @@
 | Zapinator                        | ✅     | ❌   |
 | Valentine Ring                   | ✅     | ❌   |
 | Boots of Ostara                  | ✅     | ❌   |
-| Boots of Ostara Legs             | ❌     | ❌   |
+| Boots of Ostara Legs             | ✅     | ❌   |
 | Festive Top Hat                  | ✅     | ❌   |
 | Festive Top Hat Head             | ✅     | ❌   |
 | Alphine Hat                      | ✅     | ❌   |
