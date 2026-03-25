@@ -67,13 +67,13 @@
 | Fabulous Dress Body              | ✅     | ✅   |
 | Fabulous Slippers                | ✅     | ✅   |
 | Fabulous Slippers Legs           | ✅     | ✅   |
-| George's Hat                     | ✅     | ❌   |
-| George's Hat Head                | ✅     | ❌   |
-| George's Tuxedo Shirt            | ✅     | ❌   |
-| George's Tuxedo Shirt Arms       | ✅     | ❌   |
-| George's Tuxedo Shirt Body       | ✅     | ❌   |
-| George's Tuxedo Pants            | ✅     | ❌   |
-| George's Tuxedo Pants Legs       | ✅     | ❌   |
+| George's Hat                     | ✅     | ✅   |
+| George's Hat Head                | ✅     | ✅   |
+| George's Tuxedo Shirt            | ✅     | ✅   |
+| George's Tuxedo Shirt Arms       | ✅     | ✅   |
+| George's Tuxedo Shirt Body       | ✅     | ✅   |
+| George's Tuxedo Pants            | ✅     | ✅   |
+| George's Tuxedo Pants Legs       | ✅     | ✅   |
 | Hero's Hat                       | ✅     | ✅   |
 | Hero's Hat Head                  | ✅     | ✅   |
 | Hero's Shirt                     | ✅     | ✅   |
@@ -81,13 +81,13 @@
 | Hero's Shirt Body                | ✅     | ✅   |
 | Hero's Pants                     | ✅     | ✅   |
 | Hero's Pants Legs                | ✅     | ✅   |
-| Horned God Mask                  | ✅     | ❌   |
-| Horned God Mask Head             | ✅     | ❌   |
-| Horned God Robe                  | ✅     | ❌   |
-| Horned God Robe Arms             | ❌     | ❌   |
-| Horned God Robe Body             | ❌     | ❌   |
-| Horned God Boots                 | ✅     | ❌   |
-| Horned God Boots Legs            | ✅     | ❌   |
+| Horned God Mask                  | ✅     | ✅   |
+| Horned God Mask Head             | ✅     | ✅   |
+| Horned God Robe                  | ✅     | ✅   |
+| Horned God Robe Arms             | ✅     | ✅   |
+| Horned God Robe Body             | ✅     | ✅   |
+| Horned God Boots                 | ✅     | ✅   |
+| Horned God Boots Legs            | ✅     | ✅   |
 | Ocram Mask                       | ❌     | ❌   |
 | Plumber's Hat                    | ✅     | ✅   |
 | Plumber's Hat Head               | ✅     | ✅   |
@@ -115,7 +115,7 @@
 | Festive Top Hat                  | ✅     | ❌   |
 | Festive Top Hat Head             | ✅     | ❌   |
 | Alphine Hat                      | ✅     | ❌   |
-| Alphine Hat Head                 | ✅     | ❌   |
+| Alphine Hat Head                 | ❌     | ❌   |
 | Lederweste                       | ✅     | ❌   |
 | Lederweste Arms                  | ✅     | ❌   |
 | Lederweste Body                  | ✅     | ❌   |
@@ -134,7 +134,7 @@
 | Turkey Feather                   | ✅     | ❌   |
 | Suspicious Apple                 | ✅     | ❌   |
 | Cursed Stuffing                  | ✅     | ❌   |
-| Horn o' Plenty                   | ✅     | ❌   |
+| Horn o' Plenty                   | ✅     | ✅   |
 | Purple Thread                    | ❌     | ❌   |
 | Strange Looking Tombstone        | ✅     | ❌   |
 | Wiesnbrau                        | ✅     | ❌   |
