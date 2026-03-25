@@ -8,7 +8,7 @@
 | Tizona                           | ✅     | ✅   |
 | Ancient Tonbogiri                | ✅     | ✅   |
 | Tonbogiri                        | ✅     | ✅   |
-| Vulcan Bolt                      | ✅     | ❌   |
+| Vulcan Bolt                      | ✅     | ✅   |
 | Vulcan Repeater                  | ✅     | ✅   |
 | Ancient Dragon Mask              | ✅     | ❌   |
 | Ancient Dragon Mask Head         | ❌     | ❌   |
