@@ -13,14 +13,14 @@
 | Dragon Hornet               | ✅     | ✅   |
 | Dragon Skull                | ✅     | ✅   |
 | Dragon Snatcher             | ✅     | ❌   |
-| Servant of Ocram            | ✅     | ❌   |
+| Servant of Ocram            | ✅     | ✅   |
 | Shadow Hammer               | ✅     | ❌   |
 | Shadow Mummy                | ✅     | ✅   |
 | Shadow Slime                | ✅     | ✅   |
 | Spectral Elemental          | ✅     | ❌   |
 | Spectral Gastropod          | ✅     | ❌   |
 | Spectral Mummy              | ✅     | ✅   |
-| Vampire Miner               | ✅     | ❌   |
+| Vampire Miner               | ✅     | ✅   |
 | Ocram Boss1                 | ✅     | ❌   |
 | Ocram Boss2                 | ✅     | ❌   |
 | Ocram Boss3                 | ✅     | ❌   |
