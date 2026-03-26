@@ -1,11 +1,11 @@
-public bool SpawnNPC(int x, int y, int playerID)
-{
-    if (y > Main.rockLayer && y < Main.maxTilesY - 200 && Main.jungleTiles > 50 && !Main.player[playerID].zoneDungeon && Main.rand.Next(14) == 0)
-    {
-        return true;
-    }
-    else return false;
-}
+// public bool SpawnNPC(int x, int y, int playerID)
+// {
+//     if (y > Main.rockLayer && y < Main.maxTilesY - 200 && Main.jungleTiles > 50 && !Main.player[playerID].zoneDungeon && Main.rand.Next(14) == 0)
+//     {
+//         return true;
+//     }
+//     else return false;
+// }
 
 // Temp ai from corrupted hornet from Avalon, will need to be tweaked
 public void AI()
@@ -43,8 +43,8 @@ public void AI()
 }
 public void NPCLoot()
 {
-	// Gore.NewGore(npc.position,npc.velocity,"Hornet Gore 1",1.1f,-1);
-	// Gore.NewGore(npc.position,npc.velocity,"Hornet Gore 2",1.1f,-1);
+	Gore.NewGore(npc.position, npc.velocity, "Dragon Hornet Gore 1", 1.1f, -1);
+	Gore.NewGore(npc.position, npc.velocity, "Dragon Hornet Gore 2", 1.1f, -1);
 	Dust.NewDust(npc.position, npc.height, npc.width, 4, 0.2f, 0.2f, 100, default(Color), 1f);
 	Dust.NewDust(npc.position, npc.height, npc.width, 4, 0.2f, 0.2f, 100, default(Color), 1f);
 	Dust.NewDust(npc.position, npc.height, npc.width, 4, 0.2f, 0.2f, 100, default(Color), 1f);

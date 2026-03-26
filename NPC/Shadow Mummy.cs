@@ -1,13 +1,14 @@
-public bool SpawnNPC(int x, int y, int playerID)
-{
-    Player player = Main.player[playerID];
+// public bool SpawnNPC(int x, int y, int playerID)
+// {
+//     Player player = Main.player[playerID];
 
-    return Main.hardMode &&
-        //    player.zoneDesert &&     // not sure how
-           player.zoneEvil &&       // corruption
-           !player.zoneMeteor &&
-           Main.rand.Next(7) == 0;
-}
+//     return Main.hardMode &&
+//         //    player.zoneDesert &&     // not sure how
+//            Main.player[playerID].zoneEvil &&
+//            !Main.player[playerID].zoneMeteor &&
+//            Main.rand.Next(7) == 0;
+// }
+
 public void NPCLoot()
 {
 	int D = Dust.NewDust(npc.position, npc.height, npc.width, 3, 1f, 1f, 100, default(Color), 1f);

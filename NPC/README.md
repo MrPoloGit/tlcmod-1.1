@@ -10,16 +10,16 @@
 | Arch Wyvern Head            | ✅     | ❌   |
 | Arch Wyvern Legs            | ✅     | ❌   |
 | Arch Wyvern Tail            | ✅     | ❌   |
-| Dragon Hornet               | ✅     | ❌   |
-| Dragon Skull                | ✅     | ❌   |
+| Dragon Hornet               | ✅     | ✅   |
+| Dragon Skull                | ✅     | ✅   |
 | Dragon Snatcher             | ✅     | ❌   |
 | Servant of Ocram            | ✅     | ❌   |
 | Shadow Hammer               | ✅     | ❌   |
-| Shadow Mummy                | ✅     | ❌   |
-| Shadow Slime                | ✅     | ❌   |
+| Shadow Mummy                | ✅     | ✅   |
+| Shadow Slime                | ✅     | ✅   |
 | Spectral Elemental          | ✅     | ❌   |
 | Spectral Gastropod          | ✅     | ❌   |
-| Spectral Mummy              | ✅     | ❌   |
+| Spectral Mummy              | ✅     | ✅   |
 | Vampire Miner               | ✅     | ❌   |
 | Ocram Boss1                 | ✅     | ❌   |
 | Ocram Boss2                 | ✅     | ❌   |
