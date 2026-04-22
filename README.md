@@ -4,6 +4,9 @@
 - do for TAPI for 1.2 version, then afterwards if there is exclusive content for 1.3+ do it for tmodloader
 - Update tconfig to make sure that all the folders and files for it to be in Terraria/tconfig, similar to Terraria/tmodloader
 - If there are any issues file an issue so that a PR can be made to fix it
+- https://terraria.wiki.gg/wiki/Legacy:Old-gen_console_version
+- https://terraria.wiki.gg/wiki/Legacy:3DS_version
+- https://terraria.wiki.gg/wiki/AI
 
 ## Content:
 
@@ -276,18 +279,3 @@
 | Heart Arrow                        | ✅     | ❌   |
 | Roman Candle (IDK where to get)    | ❌     | ❌   |
 | Green Laser (Zappinator)           | ✅     | ❌   |
-
-| Tile                      | Sprite | Code |
-|---------------------------|--------|------|
-| Ocram Trophy              | ✅     | ❌   |
-| Albino Antlion Banner     | ✅     | ❌   |
-| Arch Demon Banner         | ✅     | ❌   |
-| Arch Wyvern Banner        | ✅     | ❌   |
-| Dragon Snatcher Banner    | ✅     | ❌   |
-| Jellyfish Banner          | ✅     | ❌   |
-| Shadow Hammer Banner      | ✅     | ❌   |
-| Shadow Mummy Banner       | ✅     | ❌   |
-| Slime Banner              | ✅     | ❌   |
-| Spectral Elemental Banner | ✅     | ❌   |
-| Spectral Gastropod Banner | ✅     | ❌   |
-| Vampire Miner Banner      | ✅     | ❌   |
